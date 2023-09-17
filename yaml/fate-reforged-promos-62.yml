@@ -1,0 +1,115 @@
+---
+object: card
+id: b2597820-cbc5-4d68-9219-8cdd15d8e51e
+oracle_id: af247e2f-b271-4f5b-ab98-4579d2c17c21
+multiverse_ids: []
+tcgplayer_id: 95340
+cardmarket_id: 272055
+name: Archfiend of Depravity
+lang: en
+released_at: '2015-01-23'
+uri: https://api.scryfall.com/cards/b2597820-cbc5-4d68-9219-8cdd15d8e51e
+scryfall_uri: https://scryfall.com/card/pfrf/62/archfiend-of-depravity?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/2/b2597820-cbc5-4d68-9219-8cdd15d8e51e.jpg?1562937053
+  normal: https://cards.scryfall.io/normal/front/b/2/b2597820-cbc5-4d68-9219-8cdd15d8e51e.jpg?1562937053
+  large: https://cards.scryfall.io/large/front/b/2/b2597820-cbc5-4d68-9219-8cdd15d8e51e.jpg?1562937053
+  png: https://cards.scryfall.io/png/front/b/2/b2597820-cbc5-4d68-9219-8cdd15d8e51e.png?1562937053
+  art_crop: https://cards.scryfall.io/art_crop/front/b/2/b2597820-cbc5-4d68-9219-8cdd15d8e51e.jpg?1562937053
+  border_crop: https://cards.scryfall.io/border_crop/front/b/2/b2597820-cbc5-4d68-9219-8cdd15d8e51e.jpg?1562937053
+mana_cost: "{3}{B}{B}"
+cmc: 5.0
+type_line: Creature — Demon
+oracle_text: |-
+  Flying
+  At the beginning of each opponent's end step, that player chooses up to two creatures they control, then sacrifices the rest.
+power: '5'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: aa9f80e3-8d60-46b7-b91e-eb1736fde866
+set: pfrf
+set_name: Fate Reforged Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/aa9f80e3-8d60-46b7-b91e-eb1736fde866
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apfrf&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pfrf?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b2597820-cbc5-4d68-9219-8cdd15d8e51e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf247e2f-b271-4f5b-ab98-4579d2c17c21&unique=prints
+collector_number: '62'
+digital: false
+rarity: rare
+watermark: sultai
+flavor_text: '"Why would I kill you all? Who then would be left to worship me?"'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Volkan Baǵa
+artist_ids:
+- 93bec3c0-0260-4d31-8064-5d01efb4153f
+illustration_id: 34e4bb93-f5b9-41d9-88f3-c8f845a20503
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- intropack
+edhrec_rank: 1551
+penny_rank: 9863
+prices:
+  usd: 
+  usd_foil: '7.20'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Archfiend+of+Depravity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Archfiend+of+Depravity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Archfiend+of+Depravity
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95340?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Archfiend+of+Depravity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archfiend+of+Depravity&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,118 @@
+---
+object: card
+id: 78741b23-66a4-4779-8781-964304e1b896
+oracle_id: 6969a7e2-6866-4001-a139-24b3be13deae
+multiverse_ids: []
+tcgplayer_id: 95616
+cardmarket_id: 272053
+name: Alesha, Who Smiles at Death
+lang: en
+released_at: '2015-01-23'
+uri: https://api.scryfall.com/cards/78741b23-66a4-4779-8781-964304e1b896
+scryfall_uri: https://scryfall.com/card/pfrf/90s/alesha-who-smiles-at-death?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/8/78741b23-66a4-4779-8781-964304e1b896.jpg?1562923400
+  normal: https://cards.scryfall.io/normal/front/7/8/78741b23-66a4-4779-8781-964304e1b896.jpg?1562923400
+  large: https://cards.scryfall.io/large/front/7/8/78741b23-66a4-4779-8781-964304e1b896.jpg?1562923400
+  png: https://cards.scryfall.io/png/front/7/8/78741b23-66a4-4779-8781-964304e1b896.png?1562923400
+  art_crop: https://cards.scryfall.io/art_crop/front/7/8/78741b23-66a4-4779-8781-964304e1b896.jpg?1562923400
+  border_crop: https://cards.scryfall.io/border_crop/front/7/8/78741b23-66a4-4779-8781-964304e1b896.jpg?1562923400
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Legendary Creature — Human Warrior
+oracle_text: |-
+  First strike
+  Whenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.
+power: '3'
+toughness: '2'
+colors:
+- R
+color_identity:
+- B
+- R
+- W
+keywords:
+- First strike
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: aa9f80e3-8d60-46b7-b91e-eb1736fde866
+set: pfrf
+set_name: Fate Reforged Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/aa9f80e3-8d60-46b7-b91e-eb1736fde866
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apfrf&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pfrf?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/78741b23-66a4-4779-8781-964304e1b896/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6969a7e2-6866-4001-a139-24b3be13deae&unique=prints
+collector_number: 90s
+digital: false
+rarity: rare
+watermark: mardu
+flavor_text: '"Greet death with sword in hand."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anastasia Ovchinnikova
+artist_ids:
+- 3605d81f-5c97-4958-9dcc-d44a85e10305
+illustration_id: 37dae181-fbe0-4b6a-8ff2-facaeaba47ef
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- prerelease
+edhrec_rank: 2576
+penny_rank: 4196
+prices:
+  usd: 
+  usd_foil: '1.29'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.44'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Alesha%2C+Who+Smiles+at+Death&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Alesha%2C+Who+Smiles+at+Death&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Alesha%2C+Who+Smiles+at+Death
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95616?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Alesha%2C+Who+Smiles+at+Death&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Alesha%2C+Who+Smiles+at+Death&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 85f6cdd6-725d-4fa2-a783-7293c50a0cf2
+oracle_id: 9d612686-2d7f-49a3-b9c4-1e99a30134f6
+multiverse_ids: []
+tcgplayer_id: 95608
+cardmarket_id: 272066
+name: Rally the Ancestors
+lang: en
+released_at: '2015-01-23'
+uri: https://api.scryfall.com/cards/85f6cdd6-725d-4fa2-a783-7293c50a0cf2
+scryfall_uri: https://scryfall.com/card/pfrf/22s/rally-the-ancestors?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/5/85f6cdd6-725d-4fa2-a783-7293c50a0cf2.jpg?1562926553
+  normal: https://cards.scryfall.io/normal/front/8/5/85f6cdd6-725d-4fa2-a783-7293c50a0cf2.jpg?1562926553
+  large: https://cards.scryfall.io/large/front/8/5/85f6cdd6-725d-4fa2-a783-7293c50a0cf2.jpg?1562926553
+  png: https://cards.scryfall.io/png/front/8/5/85f6cdd6-725d-4fa2-a783-7293c50a0cf2.png?1562926553
+  art_crop: https://cards.scryfall.io/art_crop/front/8/5/85f6cdd6-725d-4fa2-a783-7293c50a0cf2.jpg?1562926553
+  border_crop: https://cards.scryfall.io/border_crop/front/8/5/85f6cdd6-725d-4fa2-a783-7293c50a0cf2.jpg?1562926553
+mana_cost: "{X}{W}{W}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Return each creature card with mana value X or less from your graveyard
+  to the battlefield. Exile those creatures at the beginning of your next upkeep.
+  Exile Rally the Ancestors.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: aa9f80e3-8d60-46b7-b91e-eb1736fde866
+set: pfrf
+set_name: Fate Reforged Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/aa9f80e3-8d60-46b7-b91e-eb1736fde866
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apfrf&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pfrf?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/85f6cdd6-725d-4fa2-a783-7293c50a0cf2/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d612686-2d7f-49a3-b9c4-1e99a30134f6&unique=prints
+collector_number: 22s
+digital: false
+rarity: rare
+flavor_text: |-
+  "The family is a tree, and in times of need, every branch can be a weapon."
+  —Daghatar the Adamant
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: e841d2ba-29ad-4b8a-8df9-79337cb2b4f2
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 6623
+penny_rank: 1542
+prices:
+  usd: 
+  usd_foil: '2.27'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.85'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rally+the+Ancestors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rally+the+Ancestors&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rally+the+Ancestors
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/95608?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rally+the+Ancestors&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rally+the+Ancestors&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
